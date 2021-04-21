@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+   padding: 0;
+    box-sizing: 0;
+    box-sizing: border-box;
+}
+
+.mainMenu{
+  width:100%;
+  line-height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #e84a5f;
+  color:#ff857c
+}
+.mainMenu a{
+   color: #092532;
+   font-size:3rem;
+}
+.a.manu_link{
+   color: #feceab;
+   font-size: 3rem;
+}
